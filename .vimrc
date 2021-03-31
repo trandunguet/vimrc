@@ -10,7 +10,7 @@ set shiftwidth=2
 set expandtab
 
 " show lines number
-set number
+" set number
 
 " auto complete brackets
 " "inoremap " ""<left>
