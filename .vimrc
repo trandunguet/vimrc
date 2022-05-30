@@ -12,6 +12,9 @@ set expandtab
 " show lines number
 set number
 
+" highlight search
+set hls
+
 " auto complete brackets
 " "inoremap " ""<left>
 " "inoremap ' ''<left>
